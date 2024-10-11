@@ -1,4 +1,4 @@
-# Hello! 🌕
+# Hello! 🌔
 
 My name is Luna del Valle, I'm a student at 42 Madrid since September 2024 and I love software development and open-source stuff among other things.
 
