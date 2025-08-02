@@ -8,3 +8,5 @@ My name is Luna del Valle, I'm a student at 42 Madrid since September 2024 and I
 - 🧮 Ask me about digital logic circuits!
   
 Contact: delvalleblazquezluna@gmail.com
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna7111&theme=default&show_icons=true&hide_border=true&layout=compact" alt="luna7111's GitHub Stats" />
