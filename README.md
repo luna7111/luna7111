@@ -12,3 +12,5 @@ Contact: delvalleblazquezluna@gmail.com
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna7111&layout=compact&lang-count=10&theme=default&show_icons=true&exclude_repo=dotfiles&hide_border=false" alt="luna7111's GitHub Stats" />
+
+![My scrobbles](https://lastfm-recently-played.vercel.ap/api?user=luna7111)
