@@ -1,6 +1,6 @@
 # Hello! <!-- MOON -->🌔
 
-My name is Luna del Valle, I'm a student at 42 Madrid since September 2024 and I love software development and open-source stuff among other things.
+My name is Luna del Valle, I love low-level stuff specially graphics programming and embedded systems. I also like system administration.
 
 - 💻 Currently I'm learning Rust and Lua.
 - 🫶🏻 I'm interested in teaching and pedagogy, my main goal is making tools and resources accessible and inclusive for everyone.
