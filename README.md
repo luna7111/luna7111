@@ -8,7 +8,3 @@ My name is Luna del Valle, I love low-level stuff, specially graphics programmin
 - 🧮 Ask me about digital logic circuits!
   
 Contact: delvalleblazquezluna@gmail.com
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luna7111&layout=compact&lang-count=10&theme=default&show_icons=true&exclude_repo=dotfiles&hide_border=false" alt="luna7111's GitHub Stats" align="middle" />
